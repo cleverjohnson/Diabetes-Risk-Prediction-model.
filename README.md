@@ -1,2 +1,2 @@
-# Diabetes-Risk-Prediction-model.
-This repository hosts a machine learning project to predict the risk of early-stage diabetes using the Early Stage Diabetes Risk Prediction Dataset from Kaggle. The model analyzes demographic, medical, and lifestyle data to estimate an individual’s likelihood of developing diabetes, supporting early detection and preventive care efforts.
+# Diabetes-Risk-Prediction-model (Data Science and Healthcare Innovation!).
+This repository is not just a project—it's a demonstration of my ability to build intelligent systems that can make a real impact in healthcare.
